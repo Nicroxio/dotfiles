@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning -> JS, Lua, more
 - 📫 Email's: nic@nicroxio.co.uk
 
-- https://gitlab.nicroxio.co.uk
+- https://gitlab.nicroxio.co.uk/nicroxio
