@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning -> JS, Lua, more
 - 📫 Email's: ferdi@beacroft-mitchell.co.uk
 - Languages: python, c++
+- Website: ![Nicroxio's Crazed Ramblings](https://nicroxio.co.uk)
