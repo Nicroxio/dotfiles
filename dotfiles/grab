@@ -1,0 +1,9 @@
+#!/bin/sh
+cp $HOME/.zshrc .
+cp $HOME/.bashrc .
+cp -r $HOME/.doom.d/ .
+
+git add .
+git commit
+git push
+
