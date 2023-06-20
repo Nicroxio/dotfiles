@@ -10,7 +10,8 @@
 # ░    ░    ░   ░   ▒   ░  ░  ░   ░  ░░ ░  ░░   ░ ░        
 #  ░   ░            ░  ░      ░   ░  ░  ░   ░     ░ ░      
 #  ░        ░                                     ░        
-
+# Username: Nicroxio
+# Discord: nicroxio
 
 
 
@@ -45,3 +46,4 @@ export PATH="$PATH:/usr/local/bin/"
 export EDITOR="nvim"
 export TERM="alacritty"
 export BROWSER="firefox"
+. "$HOME/.cargo/env"
