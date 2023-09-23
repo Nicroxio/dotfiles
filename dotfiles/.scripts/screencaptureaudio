@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+alacritty -e ffmpeg -video_size 1920x1080 -framerate 25 -f x11grab -i :0.0+1920 -f pulse -ac 2 -i default $HOME/Documents/Video/out.mkv
+

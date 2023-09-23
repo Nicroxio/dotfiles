@@ -60,7 +60,11 @@ cdown () {
 
 #Manualy installed Applications
 #ENV VARIABLES
-export PATH="$HOME/.emacs.d/bin:$PATH"
+
+export PATH="$PATH:/home/nic/.local/bin"
+export   DEVKITPRO=/opt/devkitpro
+export   DEVKITARM=/opt/devkitpro/devkitARM
+export   DEVKITPPC=/opt/devkitpro/devkitPPC
 export SHELL="zsh"
 export VISUAL="alacritty -e nvim"
 export EDITOR="nvim"

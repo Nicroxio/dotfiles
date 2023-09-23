@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+ffplay -window_title Webcam -fast /dev/video2 -x 430 -y 325
+
