@@ -1,10 +1,8 @@
 #!/bin/sh
 cp -r $HOME/.scripts/ .
 cp -r $HOME/.scripts/.sneaky .
-cp -r $HOME/.config/qtile/ .
 cp $HOME/.zshrc .
 cp $HOME/.bashrc .
-cp -r $HOME/.doom.d/ .
 
 git add .
 git commit

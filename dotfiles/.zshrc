@@ -61,10 +61,7 @@ cdown () {
 #Manualy installed Applications
 #ENV VARIABLES
 
-export PATH="$PATH:/home/nic/.local/bin"
-export   DEVKITPRO=/opt/devkitpro
-export   DEVKITARM=/opt/devkitpro/devkitARM
-export   DEVKITPPC=/opt/devkitpro/devkitPPC
+export PATH="$PATH:/home/nic/.local/bin:/home/nic/.local/share/gem/ruby/3.0.0/bin"
 export SHELL="zsh"
 export VISUAL="alacritty -e nvim"
 export EDITOR="nvim"
