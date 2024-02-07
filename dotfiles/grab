@@ -1,6 +1,6 @@
 #!/bin/sh
-cp -r $HOME/.scripts/ .
-cp -r $HOME/.scripts/.sneaky .
+cp $HOME/.config/alacritty.toml .
+cp -r $HOME/.config/alacritty .
 cp $HOME/.zshrc .
 cp $HOME/.bashrc .
 
