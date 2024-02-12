@@ -10,7 +10,7 @@ draw_bold_text_with_bright_colors = true
 TERM = "xterm-256color"
 
 [font]
-size = 12.0
+size = 7.0
 
 [font.bold]
 family = "TerminessNerdFont"
@@ -130,5 +130,5 @@ general = "Alacritty"
 instance = "Alacritty"
 
 [window.padding]
-x = 6
-y = 6
+x = 0
+y = 0

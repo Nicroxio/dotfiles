@@ -1,4 +1,5 @@
 #!/bin/sh
+cp $HOME/.config/neofetch/config.conf .
 cp $HOME/.config/alacritty.toml .
 cp -r $HOME/.config/alacritty .
 cp $HOME/.zshrc .
