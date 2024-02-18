@@ -1,2 +1,0 @@
-#!/usr/bin/sh  
-$(ls ~/.scripts | "$HOME/.scripts/$(dmenu -l 10)")
