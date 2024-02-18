@@ -13,5 +13,5 @@ export PAGER=more
 
 #Functions
 cheat() {
-  curl cheat.sh/$0
+  curl cheat.sh/$1
 }
