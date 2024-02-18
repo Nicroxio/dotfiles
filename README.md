@@ -11,13 +11,24 @@
 
 ### Dependencies
 
-* stow
-* Nvchad
-* fastfetch
-* zsh-autosuggestions
-### Install Nvchad
+* stow - Package Manager
+* Nvchad - Below
+* fastfetch - Package Manager
+* zsh-autosuggestions - Below
+* rust-analyzer - Below
 
-Run `git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim`
+#### Install Nvchad
+
+`git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim`
+
+#### Install rust-analyzer
+`rustup component add rust-analyzer`           
+
+#### zsh-autosuggestions
+
+`git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
+
+
 
 ### Usage
 
