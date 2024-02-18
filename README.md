@@ -8,4 +8,15 @@
 ## Thingys
 ![Overall Github Stats](https://github-readme-stats.vercel.app/api?username=Nicroxio&show_icons=true&theme=dracula)
 
+## How to use dotfiles
 
+### Dependencies
+
+* stow
+
+* fastfetch
+
+### Usage
+
+Run in this folder to symlink these into their correct places
+`stow --adopt .`
