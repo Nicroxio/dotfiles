@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Nicroxio
-- 👀 I’m interested in -> Computers... Duh, Film photography, Film Development and printing.
-- 🌱 I’m currently learning -> C++ 
-- 📫 Email's: ferdi@beacroft-mitchell.co.uk
-- Languages: python, C++, HTML, CSS
+- 📫 Email's: ferdi@nicroxio.co.uk
+- Discord: Nicroxio
+- Matrix: Unmade
+- Twitter: Nicroxio
 - Website: [My Website](https://nicroxio.co.uk)
 
 ## Thingys
@@ -13,8 +12,12 @@
 ### Dependencies
 
 * stow
-
+* Nvchad
 * fastfetch
+
+### Install Nvchad
+
+Run `git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim`
 
 ### Usage
 
