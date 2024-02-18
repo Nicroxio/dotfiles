@@ -23,3 +23,12 @@ Run `git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
 
 Run in this folder to symlink these into their correct places
 `stow --adopt .`
+
+
+
+
+
+
+
+
+Boop
