@@ -11,6 +11,9 @@ fastfetch
 
 export PAGER=more
 
+#Alias
+alias kt="tmux kill-server"
+alias weather="curl wttr.in"
 #Functions
 cheat() {
   curl cheat.sh/$1

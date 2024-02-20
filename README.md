@@ -1,11 +1,11 @@
 - 📫 Email's: ferdi@nicroxio.co.uk
 - Discord: Nicroxio
-- Matrix: Unmade
+- Matrix: @nicroxio:nicroxio.co.uk 
 - Twitter: Nicroxio
 - Website: [My Website](https://nicroxio.co.uk)
 
 ## Thingys
-![Overall Github Stats](https://github-readme-stats.vercel.app/api?username=Nicroxio&show_icons=true&theme=dracula)
+![Overall Github Stats](https://github-readme-stats.vercel.app/api?username=Nicroxio&show_icons=true&theme=gruvbox)
 
 ## How to use dotfiles
 
@@ -22,7 +22,7 @@
 `git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim`
 
 #### Install rust-analyzer
-`rustup component add rust-analyzer`           
+`rustup component add rust-analyzer` 
 
 #### zsh-autosuggestions
 
