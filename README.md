@@ -10,7 +10,9 @@
 ## How to use dotfiles
 
 ### Dependencies
-
+* ZSH
+* OhMyZSH
+* TPM
 * stow - Package Manager
 * Nvchad - Below
 * fastfetch - Package Manager
@@ -28,7 +30,9 @@
 
 `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 
+#### TPM
 
+`git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
 
 ### Usage
 
