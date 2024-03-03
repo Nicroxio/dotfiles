@@ -3,7 +3,21 @@ local overrides = require("custom.configs.overrides")
 ---@type NvPluginSpec[]
 local plugins = {
 
-	-- Override plugin definition options
+
+
+  {
+	"michaelrommel/nvim-silicon",
+	lazy = true,
+	cmd = "Silicon",
+	config = function()
+		require("silicon").setup({
+			-- Configuration here, or leave empty to use defaults
+			font = "JetBrainsMono Nerd Font=34;Noto Color Emoji=34",
+        theme= "gruvbox-dark"
+		})
+	end
+},
+   
 
 	{
 		"neovim/nvim-lspconfig",
