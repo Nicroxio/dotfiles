@@ -20,3 +20,6 @@ _darcs
 ^/README.*
 ^/LICENSE.*
 ^/COPYING
+install.py
+Dockerfile
+^/TODO.md

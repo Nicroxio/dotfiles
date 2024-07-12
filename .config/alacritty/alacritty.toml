@@ -11,7 +11,7 @@ program = "tmux"
 TERM = "xterm-256color"
 
 [font]
-size = 5
+size = 11
 
 [font.bold]
 family = "JetBrainsMono Nerd Font"
