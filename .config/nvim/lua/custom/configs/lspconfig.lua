@@ -13,7 +13,14 @@ for _, lsp in ipairs(servers) do
   }
 end
 
--- 
+
+
+--LSP Markdown marksman
+lspconfig.marksman.setup{}
+
+
+
+
 -- lspconfig.pyright.setup { blabla}
 lspconfig.rust_analyzer.setup({
     on_attach=on_attach,
