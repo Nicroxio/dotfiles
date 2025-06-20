@@ -22,4 +22,4 @@ _darcs
 ^/COPYING
 install.py
 Dockerfile
-^/TODO.md
+/TODO.md
