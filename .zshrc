@@ -13,12 +13,13 @@ fi
 
 
 
+# Source/Load zinit
+source "${ZINIT_HOME}/zinit.zsh"
+
+
 # Pure Load
 zinit ice pick"async.zsh" src"pure.zsh" # with zsh-async library that's bundled with it.
 zinit light sindresorhus/pure
-
-# Source/Load zinit
-source "${ZINIT_HOME}/zinit.zsh"
 
 # Add in zsh plugins
 zinit light zsh-users/zsh-syntax-highlighting
@@ -69,3 +70,4 @@ alias c='clear'
 
 # Environment Variables
 export QT_QPA_PLATFORM=xcb
+
